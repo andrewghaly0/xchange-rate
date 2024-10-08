@@ -35,4 +35,5 @@ Parameters:
 
 fromCurrency: The currency code to convert from (e.g., USD).
 toCurrency: The currency code to convert to (e.g., EUR).
+
 6. Test using: curl "http://localhost:4000/api/exchange-rate?from=USD&to=EUR" 
