@@ -23,7 +23,8 @@ A simple currency exchange API built using Node.js and Express. This API allows 
 2. Install the dependencies: npm install
 3. Run the server
 4. In the CMD change directory to the project file
-5. The server will run on http://localhost:4000.
+5. run: node server.js
+6. The server will run on http://localhost:4000.
 
 API Endpoints
 Get Exchange Rate
